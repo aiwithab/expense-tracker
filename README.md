@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="#" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/aiwithab/expense-tracker/blob/master/images/expenselr-logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Expenselr</h3>
